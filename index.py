@@ -1,2 +1,2 @@
 print('sveiks')
-print('Alise   ')
+print('Alise     ')
